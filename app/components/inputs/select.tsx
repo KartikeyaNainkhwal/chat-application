@@ -35,7 +35,7 @@ const Select: React.FC<SelectProps> = ({
           menuPortalTarget={document.body}
           isMulti
           styles={{
-            // @ts-expect-error Bug
+            
             menuPortal: (base) => ({
               ...base,
               zIndex: 9999,
