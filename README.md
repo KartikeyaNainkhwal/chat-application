@@ -4,7 +4,7 @@
 
 ### Author Information
 
-**Name:** Kartikeya 
+**Name:** Kartikeya  
 **University:** Indian Institute of Technology Bhilai (IIT Bhilai)  
 **Department:** Computer Science Eng. (CSE)  
 
