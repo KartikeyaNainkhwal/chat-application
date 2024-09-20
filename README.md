@@ -10,8 +10,6 @@
 
 ---
 
-If you provide your department name, I can include it in the description.
-
 
 ```markdown
 # Chat Application
